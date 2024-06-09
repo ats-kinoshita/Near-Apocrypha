@@ -1,5 +1,5 @@
 # Near-Apocrypha
-A collection of design notes and pages.
+A collection of design notes and pages on action/adventure RPGs.
 
 ## Principle of Play
 
