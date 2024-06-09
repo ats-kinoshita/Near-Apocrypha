@@ -2,14 +2,18 @@
 A collection of design notes and pages.
 
 ## Principle of Play
+
+### Player Control
 As I prototype games it is clear to me that the root of play is found in the PlayerController. The game-feel is rooted in how I/O map to player control, and that control is the basis of play. 
 
 When it comes to tabletop gaming, this control comes in the form of action-resolution. Action-resolution comes in three flavours, obstacle impact, situational insight, and acquiring sources.
 
+### Game Mastering
 Gameplay scenarios are instantiated through the game-master - managing the assets and levels of the scene. The player then controls their character(s) to engage with and overcome the scenarios encountered on their quest.
 
 In terms of tabletop game mastering, the actions they take are framing obstacles, revealing triggers, and inviting context. These are effectively Spawn/EventManager scripts, as well as dialogue prompts for player character perspective and understanding.
 
+### Level Design
 The layering and interconnection of levels, as well as the way the players will explore and internalize the layout, is the secret to the Souls series' great success as RPGs. I wish to reverse-engineer principles which would guide me in creating similar levels.
 
 My weakness as a game master is in level design. I don't know how to improvise levels, nor how to narrate their intricacies in a digestible manner. Level design is narrative design - I believe there is a lead in following Ki-Sho-Ten-Ketsu structure in how a level is created and converyed to the players. 
@@ -43,7 +47,7 @@ Based on Justin Alexander's excellent analysis of old-school dungeon designs, th
 
 11. Extradimensional Spaces - sections of a dungeon comlpex might link to areas entirely beyond the dungeon itself, such as the Painted World of Ariamis or the DLC area for Artoria of the Abyss in Dark Souls.
 
-## Landmarks
+### Landmarks
 
 As per Justin Alexander's article:
 
