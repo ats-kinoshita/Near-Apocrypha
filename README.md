@@ -12,7 +12,11 @@ In terms of tabletop game mastering, the actions they take are framing obstacles
 
 The layering and interconnection of levels, as well as the way the players will explore and internalize the layout, is the secret to the Souls series' great success as RPGs. I wish to reverse-engineer principles which would guide me in creating similar levels.
 
-My weakness as a game master is in level design. I don't know how to improvise levels, nor how to narrate their intricacies in a digestible manner. Level design is narrative design - I believe there is a lead in following Ki-Sho-Ten-Ketsu structure in how a level is created and converyed to the players. From Ueda and Miyazaki, first comes play, then comes plot, and last is story. Likewise, the play of the level comes from each individual room's narrative structure, then when stitched together each path's, and last the intricate topology that comes from the complete structure. These levels form a complex dungeon in the traditional D&D sense - with levels of escalating risks and rewards. By stacking so many levels on top of each other, the layout becomes topologically a dungeon like those of OD&D, similar to the Caverns of Thracia.
+My weakness as a game master is in level design. I don't know how to improvise levels, nor how to narrate their intricacies in a digestible manner. Level design is narrative design - I believe there is a lead in following Ki-Sho-Ten-Ketsu structure in how a level is created and converyed to the players. 
+
+From Ueda and Miyazaki, first comes play, then comes plot, and last is story. Likewise, the play of the level comes from each individual room's narrative structure, then when stitched together each path's, and last the intricate topology that comes from the complete structure. 
+
+These levels form a complex dungeon in the traditional D&D sense - with levels of escalating risks and rewards. By stacking so many levels on top of each other, the layout becomes topologically a dungeon like those of OD&D, similar to the Caverns of Thracia.
 
 ## Xandering the Level Design
 Based on Justin Alexander's excellent analysis of old-school dungeon designs, there are some key features of Xandered design:
