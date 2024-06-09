@@ -18,6 +18,7 @@ The layering and interconnection of levels, as well as the way the players will 
 
 My weakness as a game master is in level design. I don't know how to improvise levels, nor how to narrate their intricacies in a digestible manner. Level design is narrative design - I believe there is a lead in following Ki-Sho-Ten-Ketsu structure in how a level is created and converyed to the players. 
 
+### Old-School Influence
 From Ueda and Miyazaki, first comes play, then comes plot, and last is story. Likewise, the play of the level comes from each individual room's narrative structure, then when stitched together each path's, and last the intricate topology that comes from the complete structure. 
 
 These levels form a complex dungeon in the traditional D&D sense - with levels of escalating risks and rewards. By stacking so many levels on top of each other, the layout becomes topologically a dungeon like those of OD&D, similar to the Caverns of Thracia.
@@ -52,15 +53,15 @@ Based on Justin Alexander's excellent analysis of old-school dungeon designs, th
 As per Justin Alexander's article:
 
 <blockquote>
-"In order to successfully navigate a dungeon, the players will need distinct, memorable landmarks to orient themselves.
+"In order to successfully navigate a dungeon, the players will need distinct, memorable landmarks to orient themselves. 
 
-If you’re designing a dungeon with lots of unique, interesting features, this problem will generally take care of itself: The players will glom on to whatever details particularly resonate with them, and use those details to guide themselves. On the other hand, it can never hurt to do another quick pass on your design and add in a few deliberate landmarks: A large bloodstain. A unique statue. A room of strange runes.
+If you’re designing a dungeon with lots of unique, interesting features, this problem will generally take care of itself: The players will glom on to whatever details particularly resonate with them, and use those details to guide themselves. On the other hand, it can never hurt to do another quick pass on your design and add in a few deliberate landmarks: A large bloodstain. A unique statue. A room of strange runes. 
 
-Of course, players may also provide their own landmarks: “Hey, it’s that ogre we killed last week. Awesome.”
+Of course, players may also provide their own landmarks: “Hey, it’s that ogre we killed last week. Awesome.” 
 
-On the other hand, you may also be able to use landmarks to mess with your players. Some landmarks could easily disappear. (An ogre’s corpse that gets dragged away by scavengers.) Those unreliable landmarks then open the question of how a missing landmark should be interpreted. (The runes are missing. Does that mean we’re in a different room? Or have the runes vanished?) And some landmarks which might seem unique could easily prove otherwise. (There’s the golden statue of a cyclops in a hexagonal room… but I thought that was on the other side of the complex. Did we get turned around?)
+On the other hand, you may also be able to use landmarks to mess with your players. Some landmarks could easily disappear. (An ogre’s corpse that gets dragged away by scavengers.) Those unreliable landmarks then open the question of how a missing landmark should be interpreted. (The runes are missing. Does that mean we’re in a different room? Or have the runes vanished?) And some landmarks which might seem unique could easily prove otherwise. (There’s the golden statue of a cyclops in a hexagonal room… but I thought that was on the other side of the complex. Did we get turned around?) 
 
-To flip it around one last time, particularly crafty DMs might be able to hide reliable navigation information into seemingly unreliable landmarks."
+To flip it around one last time, particularly crafty DMs might be able to hide reliable navigation information into seemingly unreliable landmarks." 
 </blockquote>
 
 The key to pathfinding are the landmarks along each sequence and fork, and the narrative that each player experiences comes in large part the events that landmark their journey. From Dark Souls, the curse mechanic was meant to be a disaster which occured, spurring an emergent quest/journey on which the player either endures the curse or finds a means to break it. This curse acted as a personal landmark, and was a key part of Miyazaki's design intent of systemic narrative.
