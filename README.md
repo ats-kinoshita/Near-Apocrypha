@@ -65,3 +65,69 @@ To flip it around one last time, particularly crafty DMs might be able to hide r
 </blockquote>
 
 The key to pathfinding are the landmarks along each sequence and fork, and the narrative that each player experiences comes in large part the events that landmark their journey. From Dark Souls, the curse mechanic was meant to be a disaster which occured, spurring an emergent quest/journey on which the player either endures the curse or finds a means to break it. This curse acted as a personal landmark, and was a key part of Miyazaki's design intent of systemic narrative.
+
+## On Game Animation, Level Design, and Meaningful Mechanics
+
+### Cognitive Maps
+
+Paths - linear references. The most dominant feature and travel is concentrated on them. They are also the most temporal element, and are understood in scaling time.
+Dead reckoning and path integration are basically the idea of continuity of where you are now is where you were before plus the sum of all the steps you took to get here.
+In game development, camera movement needs to feed into the path integration of the player.
+
+Landmarks - point references. Useful for orienting distances, but also orienting when trailblazing new paths or journeys. Only useful if stationary (large creatures are not good landmarks!). Also, much better when they are directional (i.e. not radially symmetric along the y axis). Like photogramatry, the reference needs to be made multiple times to make it stick!
+
+Districts - zonal references (i.e. industrial zone, nature preserves, etc.). Use a squint test to distinguish clustered features. Districts have edges, and you go through these boundaries. A good metaphor is a colour-by-numbers painting. Districts are characterized by clustering of like objects (semantic or visual likeness).
+
+Edges - linear, elevational references (due to movement being generally horizontal in nature). Vertical boundaries like walls, cliffs, forest boundaries, doors. Edges are thresholds which are very memorable if they are crisp or clean. These edges of districts should be deliberate, and the more distinct the clearer they are in memory.
+
+Nodes - point references defined by paths. Usually hubs, places with many "ins" or many "outs". Very dense, and repeatedly used (and remembered). Need to be sign-posted due to complexity.
+
+Plan first - the plan should be clear and legible. Section is where emotion comes out. Should be tested without a HUD or UI elements, as those lead to ego-centric frame of reference as opposed to a allo-centric frame of reference. For example, using GPS navigation primarily focuses on what your next maneuver is going to be, and breaking down the journey in that way leads to a breakdown of understanding. However, without HUD people tend to do allo-centric mapping, where the world exists and I am just moving through it - exploring the space and not the map.
+
+tldr; 
+1. there exists things called "cognitive maps", the digestion of the environments we go through
+2. getting lost is when the cognitive map is misaligned with what the environment is telling you
+3. to ensure spaces are robust and foster robust cognitive maps, we can be deliberate with the 5 elements: paths, landmarks, districts, edges, and nodes
+
+I think a key aspect of my favourite games is this allo-centric mapping. Hidetaka Miyazaki and Fumito Ueda's works all encourage this sense that the world has existed, and you are exploring it. They remove the arcade, player centric feel and add weight to the world with every design choice, and that is my ideal in terms of game design.
+
+### Art of Game Design
+"Life" in games is the wholeness and coherence of the game lenses, in particular the 15 principles in the Phenomenon of Life.
+
+1. Levels of Scale
+2. Strong Centers
+3. Boundaries
+4. Alternating Repetition
+5. Positive Space
+6. Good Shape
+7. Local Symmetry
+8. Deep Interlock
+9. Contrast
+10. Graded Variation
+11. Roughness
+12. Echoes
+13. The Void
+14. Inner Calm
+15. Non-Separatness
+
+Mechanics	Dynamics	Aesthetics
+Systemic	Strategic	Narrative
+Emergence
+
+## Game Feel and A Theory of Gameplay Innovation
+Sensitivity
+Versatility
+Combinatorial
+
+Attack
+Decay
+Sustain
+Release
+
+Button inputs as actions
+Contextual positioning and movement as inputs
+
+Action Verbs are below the neck
+
+Immediate Outcome - Delayed Outcome
+Interpreted Input - Direct Control
